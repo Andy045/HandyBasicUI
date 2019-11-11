@@ -1,5 +1,3 @@
-[TOC]
-
 # 色卡
 
 在UI设计中，色彩更多被用在情感渲染、产品价值和信任度定位等方面。通过不同颜色的搭配，UI色彩的感受比文字更能直接影响用户的情绪。
@@ -115,6 +113,9 @@
 # 相关链接
 
 [中国传统色彩](http://color.uisdc.com)
+
 [Material Design](https://material.io)
+
 [Material Design Colors](https://www.materialui.co/colors)
+
 [wildma - 一种非常好用的Android屏幕适配](https://www.jianshu.com/p/1302ad5a4b04)
