@@ -35,25 +35,25 @@
 ### 导航栏标题 
 
 ```xml
-<dimen name="hdb_h1">@dimen/hdb_sp16</dimen>
+<dimen name="hd_h1">@dimen/hd_sp16</dimen>
 ```
 
 ### 列表标题、主要内容 
 
 ```xml
-<dimen name="hdb_h2">@dimen/hdb_sp14</dimen>
+<dimen name="hd_h2">@dimen/hd_sp14</dimen>
 ```
 
 ### 次要内容、二级标题 
 
 ```xml
-<dimen name="hdb_h3">@dimen/hdb_sp12</dimen>
+<dimen name="hd_h3">@dimen/hd_sp12</dimen>
 ```
 
 ### 深色背景上提示内容 
 
 ```xml
-<dimen name="hdb_h4">@dimen/hdb_sp10</dimen>
+<dimen name="hd_h4">@dimen/hd_sp10</dimen>
 ```
 
 ## 谷歌Material Design字体、边距尺寸
@@ -61,27 +61,27 @@
 ### Default FontSize 字体大小
 
 ```xml
-<dimen name="google_font_least">@dimen/hdb_sp8</dimen>
-<dimen name="google_font_micro">@dimen/hdb_sp10</dimen>
-<dimen name="google_font_small">@dimen/hdb_sp12</dimen>
-<dimen name="google_font_medium">@dimen/hdb_sp14</dimen>
-<dimen name="google_font_slarge">@dimen/hdb_sp16</dimen>
-<dimen name="google_font_large">@dimen/hdb_sp18</dimen>
-<dimen name="google_font_xlarge">@dimen/hdb_sp20</dimen>
-<dimen name="google_font_xxlarge">@dimen/hdb_sp22</dimen>
+<dimen name="google_font_least">@dimen/hd_sp8</dimen>
+<dimen name="google_font_micro">@dimen/hd_sp10</dimen>
+<dimen name="google_font_small">@dimen/hd_sp12</dimen>
+<dimen name="google_font_medium">@dimen/hd_sp14</dimen>
+<dimen name="google_font_slarge">@dimen/hd_sp16</dimen>
+<dimen name="google_font_large">@dimen/hd_sp18</dimen>
+<dimen name="google_font_xlarge">@dimen/hd_sp20</dimen>
+<dimen name="google_font_xxlarge">@dimen/hd_sp22</dimen>
 ```
 
 ### Default Margin/Padding 间距大小
 
 ```xml
-<dimen name="google_spacing_least">@dimen/hdb_dp2</dimen>
-<dimen name="google_spacing_micro">@dimen/hdb_dp4</dimen>
-<dimen name="google_spacing_small">@dimen/hdb_dp6</dimen>
-<dimen name="google_spacing_medium">@dimen/hdb_dp8</dimen>
-<dimen name="google_spacing_slarge">@dimen/hdb_dp10</dimen>
-<dimen name="google_spacing_large">@dimen/hdb_dp12</dimen>
-<dimen name="google_spacing_xlarge">@dimen/hdb_dp16</dimen>
-<dimen name="google_spacing_xxlarge">@dimen/hdb_dp18</dimen>
+<dimen name="google_spacing_least">@dimen/hd_dp2</dimen>
+<dimen name="google_spacing_micro">@dimen/hd_dp4</dimen>
+<dimen name="google_spacing_small">@dimen/hd_dp6</dimen>
+<dimen name="google_spacing_medium">@dimen/hd_dp8</dimen>
+<dimen name="google_spacing_slarge">@dimen/hd_dp10</dimen>
+<dimen name="google_spacing_large">@dimen/hd_dp12</dimen>
+<dimen name="google_spacing_xlarge">@dimen/hd_dp16</dimen>
+<dimen name="google_spacing_xxlarge">@dimen/hd_dp18</dimen>
 ```
 
 ## 通用尺寸
